@@ -21,7 +21,7 @@ Requirements- gathering and documenting designs of the software architecture and
 Design- it involves creating highlevel and detailed designs of the software architecture and user interface.
 Implementation(coding and development)- writing code and building the software according to the design specifications.
 Testing- conducting various tests to ensure the software meets quality standards and functional requirements.
-Deployment-this is realising the software to users or customers.
+Deployment-this is releasing the software to users or customers.
 Maintenance and support- provides ongoing support, updates and enhancements to the software after deployment.
 
 
